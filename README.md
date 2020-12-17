@@ -4,7 +4,7 @@ This repository contains Brian Doheny's submission for the Fundamentals of Data 
 
 This repository contains the following three files:
 * README.md - this file you are currently reading.
-* FDA-Tasks.ipynb - A Jupyter Notebook outling the 4 tasks for this semester, alongside my answers to each.
+* FDA-Tasks.ipynb - A Jupyter Notebook outlining the 4 tasks for this semester, alongside my solutions to each, followed by detailed notes on my approach to each problem.
 * .gitignore
 
 ## How to use FDA-Tasks.ipynb
@@ -25,13 +25,13 @@ Step 4 - Type "git clone" followed by the SSH addressed you copied earlier. You 
 
 Step 5 - Press enter.
 
-## Package Versions used in Numpy.Random.ipynb
+## Package Versions used in FDA-Tasks.ipynb
 
-Python - 3.8.5
-Numpy - 1.19.2
-Seaborn = 0.11.0
+Python - 3.8.5  
+Numpy - 1.19.2  
+Seaborn = 0.11.0  
 
-For Task 3 of FDA-Tasks.ipynb, I use and refer to the syntax of Numpy v1.19. As this version of Numpy made significant changes to the pseudorandom number generation, it is important to ensure you have Numpy v1.19 at least.
+For Tasks 3 and 4 of FDA-Tasks.ipynb, I use and refer to the syntax of Numpy v1.19. As this version of Numpy made significant changes to the pseudorandom number generation, it is important to ensure you have Numpy v1.19 at least.
 
 You can find steps on how to update Python packages via Anaconda [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#updating-packages).
 
